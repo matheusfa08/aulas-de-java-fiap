@@ -1,3 +1,4 @@
+//Modelo
 public class Livro {
         //Atributos: caracteristicas do objeto
         //Padrão é camelCase, sempre utilize!
